@@ -5,7 +5,8 @@
 
 ### 编程语言
 001.[《C++程序设计原理与实践》](https://book.douban.com/subject/4875599/)
->C++入门基础书籍，C++语言作者亲自编写               
+>C++入门基础书籍，C++语言作者亲自编写 
+
 002.[《python基础教程》](https://book.douban.com/subject/4866934/)
 >python入门基础书籍       
 
@@ -30,5 +31,6 @@
 
 ### 数据结构及算法
 301.[《算法》](https://book.douban.com/subject/19952400/) 
->算法入门书籍                  
+>算法入门书籍         
+
 302.[《算法导论》](https://book.douban.com/subject/20432061/)
